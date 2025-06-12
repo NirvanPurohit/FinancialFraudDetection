@@ -32,8 +32,8 @@ Key columns include:
 - **Logistic Regression**
 - **Random Forest**
 - **Gradient Boosting**
--**KNN**
--**SVM**
+- **KNN**
+- **SVM**
 
 Model selection and tuning were done using:
 - `train_test_split`
