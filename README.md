@@ -57,5 +57,6 @@ To interpret the model's predictions and understand feature importance, we appli
 1. Upload the `Loan_Default.csv` dataset to your environment (e.g., Google Colab).
 2. Open and run each cell in the notebook `FinancialFraudDetection.ipynb`.
 3. Follow the outputs and charts to explore the model training and evaluation.
-
+ ## RESEARCH PAPER
+ Research Paper is written and the process for publishing it is going on.
 
